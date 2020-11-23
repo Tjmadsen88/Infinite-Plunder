@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 9642f89ed674504439c05fd52499f89b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -672268943640247175
+    second: SpriteSheet Ship Selection 1_0
+  - first:
+      213: -3807108913389579526
+    second: SpriteSheet Ship Selection 1_1
+  - first:
+      213: -3489416511658241830
+    second: SpriteSheet Ship Selection 1_2
+  - first:
+      213: 4161908017316339038
+    second: SpriteSheet Ship Selection 1_3
+  - first:
+      213: 6637877487081222047
+    second: SpriteSheet Ship Selection 1_4
+  - first:
+      213: -8228843456126804784
+    second: SpriteSheet Ship Selection 1_5
+  - first:
+      213: -4929039550725727333
+    second: SpriteSheet Ship Selection 1_6
+  - first:
+      213: 2417537693842946496
+    second: SpriteSheet Ship Selection 1_7
+  - first:
+      213: 7318899356361177436
+    second: SpriteSheet Ship Selection 1_8
+  - first:
+      213: 5185828623981327492
+    second: SpriteSheet Ship Selection 1_9
+  - first:
+      213: -5926609291557878981
+    second: SpriteSheet Ship Selection 1_10
+  - first:
+      213: 1346123608213501324
+    second: SpriteSheet Ship Selection 1_11
+  - first:
+      213: 1469612208314277888
+    second: SpriteSheet Ship Selection 1_12
+  - first:
+      213: -6492600925914418137
+    second: SpriteSheet Ship Selection 1_13
+  - first:
+      213: 7366886903414515001
+    second: SpriteSheet Ship Selection 1_14
+  - first:
+      213: -4156649216662706511
+    second: SpriteSheet Ship Selection 1_15
+  - first:
+      213: -2632509545340037445
+    second: SpriteSheet Ship Selection 1_16
+  - first:
+      213: 3901458776378863123
+    second: SpriteSheet Ship Selection 1_17
+  - first:
+      213: 5306452313177576719
+    second: SpriteSheet Ship Selection 1_18
+  - first:
+      213: 2978649689112754950
+    second: SpriteSheet Ship Selection 1_19
+  - first:
+      213: 3463479033096269039
+    second: SpriteSheet Ship Selection 1_20
+  - first:
+      213: -5751105808749137566
+    second: SpriteSheet Ship Selection 1_21
+  - first:
+      213: -651546590286857773
+    second: SpriteSheet Ship Selection 1_22
+  - first:
+      213: -4452209233630518164
+    second: SpriteSheet Ship Selection 1_0
+  - first:
+      213: 4902653158466055368
+    second: SpriteSheet Ship Selection 1_1
+  - first:
+      213: -7699297917192406325
+    second: SpriteSheet Ship Selection 1_2
+  - first:
+      213: 3758260999320991643
+    second: SpriteSheet Ship Selection 1_3
+  - first:
+      213: 5104351933409588216
+    second: SpriteSheet Ship Selection 1_4
+  - first:
+      213: -2570429638095726258
+    second: SpriteSheet Ship Selection 1_5
+  - first:
+      213: 2116472724471659273
+    second: SpriteSheet Ship Selection 1_6
+  - first:
+      213: 6879820734581222470
+    second: SpriteSheet Ship Selection 1_7
+  - first:
+      213: -6086597415736254847
+    second: SpriteSheet Ship Selection 1_8
+  - first:
+      213: -8977229395090006067
+    second: SpriteSheet Ship Selection 1_9
+  - first:
+      213: 5471372192963385163
+    second: SpriteSheet Ship Selection 1_10
+  - first:
+      213: 2157635810633927293
+    second: SpriteSheet Ship Selection 1_11
+  - first:
+      213: -2588223128459444081
+    second: SpriteSheet Ship Selection 1_12
+  - first:
+      213: -187432856245179754
+    second: SpriteSheet Ship Selection 1_13
+  - first:
+      213: 1896942858869548663
+    second: SpriteSheet Ship Selection 1_14
+  - first:
+      213: -8408456587139257876
+    second: SpriteSheet Ship Selection 1_15
+  - first:
+      213: -3413107502453578963
+    second: SpriteSheet Ship Selection 1_16
+  - first:
+      213: 8955762954404568770
+    second: SpriteSheet Ship Selection 1_17
+  - first:
+      213: 7808143572607152849
+    second: SpriteSheet Ship Selection 1_18
+  - first:
+      213: 7135135552229287406
+    second: SpriteSheet Ship Selection 1_19
+  - first:
+      213: -5262976823241020723
+    second: SpriteSheet Ship Selection 1_20
+  - first:
+      213: -7192217344637211403
+    second: SpriteSheet Ship Selection 1_21
+  - first:
+      213: 8302037594127922450
+    second: SpriteSheet Ship Selection 1_22
+  - first:
+      213: -3341205182260162144
+    second: SpriteSheet Ship Selection 1_23
+  - first:
+      213: 3277964941689436248
+    second: SpriteSheet Ship Selection 1_24
+  - first:
+      213: 4961373363744898174
+    second: SpriteSheet Ship Selection 1_23
+  - first:
+      213: -5706316050940860649
+    second: SpriteSheet Ship Selection 1_24
+  - first:
+      213: -7076059833763641869
+    second: SpriteSheet Ship Selection 1_25
+  - first:
+      213: 7312970728683569703
+    second: SpriteSheet Ship Selection 1_25
+  - first:
+      213: 6950660821358275297
+    second: SpriteSheet Ship Selection 1_26
+  - first:
+      213: -8054375053764699413
+    second: SpriteSheet Ship Selection 1_27
+  - first:
+      213: 8069175898138053215
+    second: SpriteSheet Ship Selection 1_26
+  - first:
+      213: -8653628613066598259
+    second: SpriteSheet Ship Selection 1_27
+  - first:
+      213: 7404286483290626720
+    second: SpriteSheet Ship Selection 1_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1927
+        width: 1080
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c642db37a439632c0800000000000000
+      internalID: -4452209233630518164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_1
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1628
+        width: 898
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cce05f7219b90440800000000000000
+      internalID: 4902653158466055368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1796
+        width: 1040
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca77d14659962590800000000000000
+      internalID: -7699297917192406325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1668
+        width: 1040
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b977bbd7776082430800000000000000
+      internalID: 3758260999320991643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1540
+        width: 1040
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f4771a0d46d640800000000000000
+      internalID: 5104351933409588216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_5
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1216
+        width: 420
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491b25ecdff35cd0800000000000000
+      internalID: -2570429638095726258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_6
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1243
+        width: 199
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbfe6bab83f5d10800000000000000
+      internalID: 2116472724471659273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1293
+        width: 236
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ca41bd1880a7f50800000000000000
+      internalID: 6879820734581222470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1449
+        width: 374
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eda3806ef088ba0800000000000000
+      internalID: -6086597415736254847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1449
+        width: 330
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1776bd697a6380800000000000000
+      internalID: -8977229395090006067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1449
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47588b55083eeb40800000000000000
+      internalID: 5471372192963385163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1359
+        width: 374
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a4f7f865671fd10800000000000000
+      internalID: 2157635810633927293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1359
+        width: 330
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8089b417c8c41cd0800000000000000
+      internalID: -2588223128459444081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1359
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ae4407fca166df0800000000000000
+      internalID: -187432856245179754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776222eca7b435a10800000000000000
+      internalID: 1896942858869548663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_15
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 686
+        width: 960
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9654ea8492f4b80800000000000000
+      internalID: -8408456587139257876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 556
+        width: 330
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a8085fc432a0d0800000000000000
+      internalID: -3413107502453578963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_17
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 567
+        width: 442
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce13e515f2494c70800000000000000
+      internalID: 8955762954404568770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_18
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 450
+        width: 390
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2bf70c5391c5c60800000000000000
+      internalID: 7808143572607152849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_19
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 447
+        width: 200
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee523ee2bf7150360800000000000000
+      internalID: 7135135552229287406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_20
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 406
+        width: 254
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaea95b67626f6b0800000000000000
+      internalID: -5262976823241020723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_21
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 4
+        width: 466
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcee795e6c103c90800000000000000
+      internalID: -7192217344637211403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_22
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 264
+        width: 254
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215feeda433c63370800000000000000
+      internalID: 8302037594127922450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 540
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7910b9c65ad440800000000000000
+      internalID: 4961373363744898174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_24
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 8
+        width: 32
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7176f87f8c71fc0b0800000000000000
+      internalID: -5706316050940860649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_25
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 540
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228308c124ec7560800000000000000
+      internalID: 7312970728683569703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_26
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 122
+        width: 254
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a89ae1ab87bff60800000000000000
+      internalID: 8069175898138053215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_27
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 23
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88520410a228e780800000000000000
+      internalID: -8653628613066598259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Ship Selection 1_28
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 23
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa93c3b35f41c660800000000000000
+      internalID: 7404286483290626720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd71c5819b6beeb49949350bc0b45b19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: e90d9e0cc95060a4395958505e9ad3f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8921077894585901132
+    second: SpriteSheet TitleScreen page2_0
+  - first:
+      213: 1564365413552030606
+    second: SpriteSheet TitleScreen page2_0
+  - first:
+      213: -974572936612456821
+    second: SpriteSheet TitleScreen page2_1
+  - first:
+      213: -7663130363709098369
+    second: SpriteSheet TitleScreen page2_2
+  - first:
+      213: 5134186715511542630
+    second: SpriteSheet TitleScreen page2_3
+  - first:
+      213: 5844982422617405655
+    second: SpriteSheet TitleScreen page2_4
+  - first:
+      213: 1353527432941937064
+    second: SpriteSheet TitleScreen page2_5
+  - first:
+      213: -7218240784825781901
+    second: SpriteSheet TitleScreen page2_6
+  - first:
+      213: 5424743990634472433
+    second: SpriteSheet TitleScreen page2_7
+  - first:
+      213: 4923572711175186960
+    second: SpriteSheet TitleScreen page2_8
+  - first:
+      213: -5866999765071455410
+    second: SpriteSheet TitleScreen page2_9
+  - first:
+      213: 4740167849733910822
+    second: SpriteSheet TitleScreen page2_10
+  - first:
+      213: 5485262504681009148
+    second: SpriteSheet TitleScreen page2_11
+  - first:
+      213: 1160161811403930115
+    second: SpriteSheet TitleScreen page2_12
+  - first:
+      213: 4739776648637792164
+    second: SpriteSheet TitleScreen page2_13
+  - first:
+      213: -7553086805279040447
+    second: SpriteSheet TitleScreen page2_14
+  - first:
+      213: 2028390758456821585
+    second: SpriteSheet TitleScreen page2_15
+  - first:
+      213: -2445582989298082916
+    second: SpriteSheet TitleScreen page2_16
+  - first:
+      213: -2182572027647857077
+    second: SpriteSheet TitleScreen page2_17
+  - first:
+      213: -2485171133010789418
+    second: SpriteSheet TitleScreen page2_18
+  - first:
+      213: 7382527743055564629
+    second: SpriteSheet TitleScreen page2_19
+  - first:
+      213: -2539831286625140560
+    second: SpriteSheet TitleScreen page2_20
+  - first:
+      213: -249751615548623969
+    second: SpriteSheet TitleScreen page2_21
+  - first:
+      213: 198914298201622624
+    second: SpriteSheet TitleScreen page2_22
+  - first:
+      213: 4969295922809474633
+    second: SpriteSheet TitleScreen page2_23
+  - first:
+      213: -5074431894627987087
+    second: SpriteSheet TitleScreen page2_24
+  - first:
+      213: 4882362508898064191
+    second: SpriteSheet TitleScreen page2_25
+  - first:
+      213: -2260028521415078129
+    second: SpriteSheet TitleScreen page2_1
+  - first:
+      213: 3994160465288141440
+    second: SpriteSheet TitleScreen page2_2
+  - first:
+      213: 3677906151260115174
+    second: SpriteSheet TitleScreen page2_3
+  - first:
+      213: 8985029912286914355
+    second: SpriteSheet TitleScreen page2_4
+  - first:
+      213: -1774710857338476366
+    second: SpriteSheet TitleScreen page2_5
+  - first:
+      213: -4115635429702779892
+    second: SpriteSheet TitleScreen page2_6
+  - first:
+      213: -8980145049819956517
+    second: SpriteSheet TitleScreen page2_7
+  - first:
+      213: 2221936891756130545
+    second: SpriteSheet TitleScreen page2_8
+  - first:
+      213: -3250757104975623150
+    second: SpriteSheet TitleScreen page2_9
+  - first:
+      213: 5423219786798289711
+    second: SpriteSheet TitleScreen page2_10
+  - first:
+      213: 6105309497464009409
+    second: SpriteSheet TitleScreen page2_11
+  - first:
+      213: 6524636320056304785
+    second: SpriteSheet TitleScreen page2_12
+  - first:
+      213: 6384487739204138799
+    second: SpriteSheet TitleScreen page2_13
+  - first:
+      213: -8828379925615047651
+    second: SpriteSheet TitleScreen page2_14
+  - first:
+      213: 4039067644427474194
+    second: SpriteSheet TitleScreen page2_15
+  - first:
+      213: 277521480330216963
+    second: SpriteSheet TitleScreen page2_16
+  - first:
+      213: -4400655152742468699
+    second: SpriteSheet TitleScreen page2_17
+  - first:
+      213: 5734739473376802538
+    second: SpriteSheet TitleScreen page2_18
+  - first:
+      213: -33205909476439257
+    second: SpriteSheet TitleScreen page2_19
+  - first:
+      213: 2689758525908645251
+    second: SpriteSheet TitleScreen page2_20
+  - first:
+      213: -4958611797507595684
+    second: SpriteSheet TitleScreen page2_21
+  - first:
+      213: -6686401221953887846
+    second: SpriteSheet TitleScreen page2_22
+  - first:
+      213: -1173021682577325095
+    second: SpriteSheet TitleScreen page2_23
+  - first:
+      213: -3502920224079689886
+    second: SpriteSheet TitleScreen page2_24
+  - first:
+      213: 48156180636953516
+    second: SpriteSheet TitleScreen page2_25
+  - first:
+      213: -1129116473393790197
+    second: SpriteSheet TitleScreen page2_26
+  - first:
+      213: 657938363503205994
+    second: SpriteSheet TitleScreen page2_26
+  - first:
+      213: 8367161694196392067
+    second: SpriteSheet TitleScreen page2_27
+  - first:
+      213: -8872606358462565226
+    second: SpriteSheet TitleScreen page2_27
+  - first:
+      213: -6582678881126584317
+    second: SpriteSheet TitleScreen page2_28
+  - first:
+      213: 2549790171938105620
+    second: SpriteSheet TitleScreen page2_29
+  - first:
+      213: -5485472717299520386
+    second: SpriteSheet TitleScreen page2_28
+  - first:
+      213: 7723519705374858513
+    second: SpriteSheet TitleScreen page2_29
+  - first:
+      213: 5804177668378573296
+    second: SpriteSheet TitleScreen page2_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 1452
+        height: 1148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e830da52e0eb5b510800000000000000
+      internalID: 1564365413552030606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_1
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1193
+        width: 418
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8dcea804c2a0e0800000000000000
+      internalID: -2260028521415078129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 654
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a986df7cb1e6730800000000000000
+      internalID: 3994160465288141440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 654
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0551f782c8a0330800000000000000
+      internalID: 3677906151260115174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 654
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ee1ab91d31bc70800000000000000
+      internalID: 8985029912286914355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 654
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8af49c0e5fe57e0800000000000000
+      internalID: -1774710857338476366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_6
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 579
+        width: 205
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cbd8bd16352e6c0800000000000000
+      internalID: -4115635429702779892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_7
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 27
+        width: 650
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabff1f7ad106380800000000000000
+      internalID: -8980145049819956517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 554
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b57aa4d7e5de10800000000000000
+      internalID: 2221936891756130545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 554
+        width: 430
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc9d2e2adf2e2d0800000000000000
+      internalID: -3250757104975623150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 470
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f235bf2a9a5234b40800000000000000
+      internalID: 5423219786798289711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 470
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2392004aa6ab450800000000000000
+      internalID: 6105309497464009409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 470
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19461910a2a2c8a50800000000000000
+      internalID: 6524636320056304785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 470
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f277918b5c14a9850800000000000000
+      internalID: 6384487739204138799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 395
+        width: 205
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c868f7b3b4b7580800000000000000
+      internalID: -8828379925615047651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 370
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2159fd96f96ad0830800000000000000
+      internalID: 4039067644427474194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 370
+        width: 430
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3068f94e054f9d300800000000000000
+      internalID: 277521480330216963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 286
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3fac9447bbde2c0800000000000000
+      internalID: -4400655152742468699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 286
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6f806ca23e59f40800000000000000
+      internalID: 5734739473376802538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 286
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8639b6670a8ff0800000000000000
+      internalID: -33205909476439257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_20
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 286
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385fc5cd021f35520800000000000000
+      internalID: 2689758525908645251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 211
+        width: 205
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52af7e87d87f2bb0800000000000000
+      internalID: -4958611797507595684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 186
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9163b3c3812533a0800000000000000
+      internalID: -6686401221953887846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 186
+        width: 430
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3c520aef698bfe0800000000000000
+      internalID: -1173021682577325095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267c23f8d90236fc0800000000000000
+      internalID: -3502920224079689886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 102
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabea988ac51ba000800000000000000
+      internalID: 48156180636953516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 102
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed5b8a477712900800000000000000
+      internalID: 657938363503205994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 102
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69477fba68b2ed480800000000000000
+      internalID: -8872606358462565226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 27
+        width: 205
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce34c70afafd3b0800000000000000
+      internalID: -5485472717299520386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d199640447f2b60800000000000000
+      internalID: 7723519705374858513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page2_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2
+        width: 430
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b5f866d49c8050800000000000000
+      internalID: 5804177668378573296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: be75fb54746ac4c48916fa7585c8ff36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2729067850677855511
+    second: SpriteSheet TargetingArrow_0
+  - first:
+      213: -507820353652697159
+    second: SpriteSheet TargetingArrow_1
+  - first:
+      213: 1628175810515570328
+    second: SpriteSheet TargetingArrow_2
+  - first:
+      213: 7868483156712306986
+    second: SpriteSheet TargetingArrow_3
+  - first:
+      213: -2110223399289424115
+    second: SpriteSheet TargetingArrow_4
+  - first:
+      213: 4716838280322883691
+    second: SpriteSheet TargetingArrow_5
+  - first:
+      213: -6734307325811238894
+    second: SpriteSheet TargetingArrow_6
+  - first:
+      213: -3773641005731931213
+    second: SpriteSheet TargetingArrow_7
+  - first:
+      213: -1523561585161933352
+    second: SpriteSheet TargetingArrow_8
+  - first:
+      213: 7682376456878498928
+    second: SpriteSheet TargetingArrow_9
+  - first:
+      213: -6645376133120465686
+    second: SpriteSheet TargetingArrow_10
+  - first:
+      213: -7000983666250236765
+    second: SpriteSheet TargetingArrow_11
+  - first:
+      213: 8876351736588337876
+    second: SpriteSheet TargetingArrow_12
+  - first:
+      213: 694310350717497407
+    second: SpriteSheet TargetingArrow_13
+  - first:
+      213: 2713387522156975280
+    second: SpriteSheet TargetingArrow_14
+  - first:
+      213: -1365978349868078661
+    second: SpriteSheet TargetingArrow_15
+  - first:
+      213: -924877142903551097
+    second: SpriteSheet TargetingArrow_16
+  - first:
+      213: 3190138934632471357
+    second: SpriteSheet TargetingArrow_17
+  - first:
+      213: -7812430243742522071
+    second: SpriteSheet TargetingArrow_18
+  - first:
+      213: -4324276769197363824
+    second: SpriteSheet TargetingArrow_19
+  - first:
+      213: 4032675411747308514
+    second: SpriteSheet TargetingArrow_20
+  - first:
+      213: -1600782044979448449
+    second: SpriteSheet TargetingArrow_21
+  - first:
+      213: -5586030735603873599
+    second: SpriteSheet TargetingArrow_22
+  - first:
+      213: -322091945210176588
+    second: SpriteSheet TargetingArrow_23
+  - first:
+      213: 5216065101662722487
+    second: SpriteSheet TargetingArrow_24
+  - first:
+      213: -3348517574154116865
+    second: SpriteSheet TargetingArrow_25
+  - first:
+      213: 4495214134637873841
+    second: SpriteSheet TargetingArrow_26
+  - first:
+      213: -3000863862229705365
+    second: SpriteSheet TargetingArrow_27
+  - first:
+      213: -1846820938879472016
+    second: SpriteSheet TargetingArrow_28
+  - first:
+      213: 8675046247000939370
+    second: SpriteSheet TargetingArrow_29
+  - first:
+      213: 2752484402920994098
+    second: SpriteSheet TargetingArrow_30
+  - first:
+      213: 1431101767103095056
+    second: SpriteSheet TargetingArrow_31
+  - first:
+      213: 8444432256329912861
+    second: SpriteSheet TargetingArrow_32
+  - first:
+      213: -2826349345676912434
+    second: SpriteSheet TargetingArrow_33
+  - first:
+      213: 3746635922802431452
+    second: SpriteSheet TargetingArrow_34
+  - first:
+      213: 2021614709433336462
+    second: SpriteSheet TargetingArrow_35
+  - first:
+      213: -6829660398052986108
+    second: SpriteSheet TargetingArrow_36
+  - first:
+      213: -1318801857664197093
+    second: SpriteSheet TargetingArrow_37
+  - first:
+      213: 300248514470259
+    second: SpriteSheet TargetingArrow_38
+  - first:
+      213: 166701208911676089
+    second: SpriteSheet TargetingArrow_39
+  - first:
+      213: -5338480927575856299
+    second: SpriteSheet TargetingArrow_40
+  - first:
+      213: -3467779010180179810
+    second: SpriteSheet TargetingArrow_41
+  - first:
+      213: -7268548818717031505
+    second: SpriteSheet TargetingArrow_42
+  - first:
+      213: 4189845982660599942
+    second: SpriteSheet TargetingArrow_43
+  - first:
+      213: 3965256282581483544
+    second: SpriteSheet TargetingArrow_44
+  - first:
+      213: 8815049017520450651
+    second: SpriteSheet TargetingArrow_45
+  - first:
+      213: 5190682006525440152
+    second: SpriteSheet TargetingArrow_46
+  - first:
+      213: -1156610412637798217
+    second: SpriteSheet TargetingArrow_47
+  - first:
+      213: 5210315803445421050
+    second: SpriteSheet TargetingArrow_48
+  - first:
+      213: -2322924534077785649
+    second: SpriteSheet TargetingArrow_49
+  - first:
+      213: -8790928689742890407
+    second: SpriteSheet TargetingArrow_50
+  - first:
+      213: 5797142323626393016
+    second: SpriteSheet TargetingArrow_51
+  - first:
+      213: -860642240670236511
+    second: SpriteSheet TargetingArrow_52
+  - first:
+      213: -4544497528596569239
+    second: SpriteSheet TargetingArrow_53
+  - first:
+      213: 1597183580477476121
+    second: SpriteSheet TargetingArrow_54
+  - first:
+      213: 558196475055380407
+    second: SpriteSheet TargetingArrow_55
+  - first:
+      213: -4457738933226946105
+    second: SpriteSheet TargetingArrow_56
+  - first:
+      213: -3003238728346756165
+    second: SpriteSheet TargetingArrow_57
+  - first:
+      213: 4739025775394202833
+    second: SpriteSheet TargetingArrow_58
+  - first:
+      213: 2681919833211005406
+    second: SpriteSheet TargetingArrow_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715a79f30c89fd520800000000000000
+      internalID: 2729067850677855511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b751d2341cd3f8f0800000000000000
+      internalID: -507820353652697159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e0aa1f541789610800000000000000
+      internalID: 1628175810515570328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a293bf4fdb7723d60800000000000000
+      internalID: 7868483156712306986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f2a0bffaf6b2e0800000000000000
+      internalID: -2110223399289424115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b602c91dc63957140800000000000000
+      internalID: 4716838280322883691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d5b4ca2fea82a0800000000000000
+      internalID: -6734307325811238894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb1087bf7551abc0800000000000000
+      internalID: -3773641005731931213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddedfa7fc83bdae0800000000000000
+      internalID: -1523561585161933352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074211f3fa84d9a60800000000000000
+      internalID: 7682376456878498928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ee7a9d91e6c3a0800000000000000
+      internalID: -6645376133120465686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acb7d6c27287de90800000000000000
+      internalID: -7000983666250236765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 844
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d205c020e22f2b70800000000000000
+      internalID: 8876351736588337876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30b46ad59fa2a900800000000000000
+      internalID: 694310350717497407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d4244393e7a520800000000000000
+      internalID: 2713387522156975280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb92d359de11b0de0800000000000000
+      internalID: -1365978349868078661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0b54832d2a23f0800000000000000
+      internalID: -924877142903551097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b59ee7576a54c20800000000000000
+      internalID: 3190138934632471357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9256539d51ca49390800000000000000
+      internalID: -7812430243742522071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d648d70351df3c0800000000000000
+      internalID: -4324276769197363824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e386a3cbe0f6f730800000000000000
+      internalID: 4032675411747308514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f753d2e1631e8c9e0800000000000000
+      internalID: -1600782044979448449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_22
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8caeb54ae6a72b0800000000000000
+      internalID: -5586030735603873599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_23
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9bb41513b78bf0800000000000000
+      internalID: -322091945210176588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_24
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b91be5f29f236840800000000000000
+      internalID: 5216065101662722487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_25
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 664
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0246ce10da781d0800000000000000
+      internalID: -3348517574154116865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac7645075326e30800000000000000
+      internalID: 4495214134637873841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ddd70773aca56d0800000000000000
+      internalID: -3000863862229705365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee5561426ce56e0800000000000000
+      internalID: -1846820938879472016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b939a6994f36870800000000000000
+      internalID: 8675046247000939370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235b8ed2bf9c23620800000000000000
+      internalID: 2752484402920994098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112d91997b4cd310800000000000000
+      internalID: 1431101767103095056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1215688566a03570800000000000000
+      internalID: 8444432256329912861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_33
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec815c7ae3ac6c8d0800000000000000
+      internalID: -2826349345676912434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd55b517589bef330800000000000000
+      internalID: 3746635922802431452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_35
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828a740ed73e0c10800000000000000
+      internalID: 2021614709433336462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_36
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403bf759d0c2831a0800000000000000
+      internalID: -6829660398052986108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_37
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1edcc0a2bca2bde0800000000000000
+      internalID: -1318801857664197093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_38
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 484
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ac0e0311110000800000000000000
+      internalID: 300248514470259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20fc4cddd305200800000000000000
+      internalID: 166701208911676089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba4af71e7e9e5b0800000000000000
+      internalID: -5338480927575856299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9897a20d59ffdfc0800000000000000
+      internalID: -3467779010180179810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa349cb1c5de02b90800000000000000
+      internalID: -7268548818717031505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802514f8b2552a30800000000000000
+      internalID: 4189845982660599942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810c7a6849b670730800000000000000
+      internalID: 3965256282581483544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c66f69068555a70800000000000000
+      internalID: 8815049017520450651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_46
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f5f498c1090840800000000000000
+      internalID: 5190682006525440152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c43b25f4e2ffe0800000000000000
+      internalID: -1156610412637798217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_48
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e7f72e92ce4840800000000000000
+      internalID: 5210315803445421050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_49
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f042917053cfd0800000000000000
+      internalID: -2322924534077785649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_50
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab51adee8500680800000000000000
+      internalID: -8790928689742890407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 304
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd32209a36937050800000000000000
+      internalID: 5797142323626393016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0872621726e04f0800000000000000
+      internalID: -860642240670236511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636c555393bee0c0800000000000000
+      internalID: -4544497528596569239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d427311065a2610800000000000000
+      internalID: 1597183580477476121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b71d829cbc1fb700800000000000000
+      internalID: 558196475055380407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1449fee0ee222c0800000000000000
+      internalID: -4457738933226946105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_57
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb1235d94a5256d0800000000000000
+      internalID: -3003238728346756165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4aac395d664c140800000000000000
+      internalID: 4739025775394202833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TargetingArrow_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 124
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9ed9ef0e7183520800000000000000
+      internalID: 2681919833211005406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6083e5b57d782e84481f2b0646574599
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

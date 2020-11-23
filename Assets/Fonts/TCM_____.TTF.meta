@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6142ed9625503774eab666cdf05b0b2f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 58
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tw Cen MT
+  fontNames:
+  - Tw Cen MT
+  fallbackFontReferences: []
+  customCharacters: "1234567890,+x \u2012%AFHLMNRSTZ:adeghilmnorwy"
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

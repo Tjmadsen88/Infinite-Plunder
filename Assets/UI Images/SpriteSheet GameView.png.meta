@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: 1aa21afef33aa6a4089f2c230e485499
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5136311790470315811
+    second: SpriteSheet GameView_0
+  - first:
+      213: 9203817415357333722
+    second: SpriteSheet GameView_1
+  - first:
+      213: -8935471629241806589
+    second: SpriteSheet GameView_2
+  - first:
+      213: -5711460940918678670
+    second: SpriteSheet GameView_3
+  - first:
+      213: 110323602263513861
+    second: SpriteSheet GameView_4
+  - first:
+      213: 8117351516535131382
+    second: SpriteSheet GameView_5
+  - first:
+      213: -1424229187023676983
+    second: SpriteSheet GameView_6
+  - first:
+      213: -7443883689089471341
+    second: SpriteSheet GameView_7
+  - first:
+      213: 4272006550643461769
+    second: SpriteSheet GameView_8
+  - first:
+      213: 2476825837792054834
+    second: SpriteSheet GameView_9
+  - first:
+      213: -4542343258088919295
+    second: SpriteSheet GameView_10
+  - first:
+      213: 5695908859332598006
+    second: SpriteSheet GameView_11
+  - first:
+      213: 8868905520201888038
+    second: SpriteSheet GameView_12
+  - first:
+      213: -88135231876124270
+    second: SpriteSheet GameView_13
+  - first:
+      213: -7937345219027510552
+    second: SpriteSheet GameView_14
+  - first:
+      213: 9093308336144689724
+    second: SpriteSheet GameView_15
+  - first:
+      213: 1110613249663447399
+    second: SpriteSheet GameView_16
+  - first:
+      213: -4046255035500051248
+    second: SpriteSheet GameView_17
+  - first:
+      213: 3382058001410982072
+    second: SpriteSheet GameView_18
+  - first:
+      213: -1903239828537017057
+    second: SpriteSheet GameView_19
+  - first:
+      213: -3770971109496579107
+    second: SpriteSheet GameView_20
+  - first:
+      213: 2623642827721112366
+    second: SpriteSheet GameView_0
+  - first:
+      213: 8115948401880762770
+    second: SpriteSheet GameView_1
+  - first:
+      213: 5579237984170952727
+    second: SpriteSheet GameView_2
+  - first:
+      213: 3808152807710305633
+    second: SpriteSheet GameView_3
+  - first:
+      213: -4003246542783521806
+    second: SpriteSheet GameView_4
+  - first:
+      213: -895786276236301379
+    second: SpriteSheet GameView_5
+  - first:
+      213: -1385571628058991997
+    second: SpriteSheet GameView_6
+  - first:
+      213: 8452651669192794112
+    second: SpriteSheet GameView_7
+  - first:
+      213: 1577397138746570654
+    second: SpriteSheet GameView_8
+  - first:
+      213: -2237567628652234277
+    second: SpriteSheet GameView_9
+  - first:
+      213: -2255803841657603683
+    second: SpriteSheet GameView_10
+  - first:
+      213: -233031216804113104
+    second: SpriteSheet GameView_11
+  - first:
+      213: 6590897392489109692
+    second: SpriteSheet GameView_12
+  - first:
+      213: 3147260841051487391
+    second: SpriteSheet GameView_13
+  - first:
+      213: -2624839955226137907
+    second: SpriteSheet GameView_14
+  - first:
+      213: -3281332661135834291
+    second: SpriteSheet GameView_15
+  - first:
+      213: 3115388842247245365
+    second: SpriteSheet GameView_16
+  - first:
+      213: 7886532751178335608
+    second: SpriteSheet GameView_17
+  - first:
+      213: -2408051359458028997
+    second: SpriteSheet GameView_18
+  - first:
+      213: 4793416272079667372
+    second: SpriteSheet GameView_19
+  - first:
+      213: -615565347573727482
+    second: SpriteSheet GameView_20
+  - first:
+      213: -2896747121356287482
+    second: SpriteSheet GameView_21
+  - first:
+      213: 903483472612031410
+    second: SpriteSheet GameView_21
+  - first:
+      213: 1984665459092179650
+    second: SpriteSheet GameView_22
+  - first:
+      213: 8567078423733970850
+    second: SpriteSheet GameView_23
+  - first:
+      213: 3534181763461977269
+    second: SpriteSheet GameView_22
+  - first:
+      213: -1622395405912372432
+    second: SpriteSheet GameView_23
+  - first:
+      213: -5338329807291813573
+    second: SpriteSheet GameView_24
+  - first:
+      213: 3949496502158921282
+    second: SpriteSheet GameView_25
+  - first:
+      213: -2080189073688230150
+    second: SpriteSheet GameView_26
+  - first:
+      213: 3103312415213705935
+    second: SpriteSheet GameView_24
+  - first:
+      213: 8846806976313292856
+    second: SpriteSheet GameView_25
+  - first:
+      213: 8139579555072952534
+    second: SpriteSheet GameView_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet GameView_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1592
+        width: 1920
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b71db404d096420800000000000000
+      internalID: 2623642827721112366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_1
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1906
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29980854214a1a070800000000000000
+      internalID: 8115948401880762770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_2
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1764
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71840e3f26f6d6d40800000000000000
+      internalID: 5579237984170952727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_3
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1622
+        width: 102
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16daaf95dc649d430800000000000000
+      internalID: 3808152807710305633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 595
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbd31dba7c9178c0800000000000000
+      internalID: -4003246542783521806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1025
+        width: 532
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe34ab0278193f0800000000000000
+      internalID: -895786276236301379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_6
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1475
+        width: 231
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822fa202f575cce0800000000000000
+      internalID: -1385571628058991997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_7
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1475
+        width: 231
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006958b8e9dd4570800000000000000
+      internalID: 8452651669192794112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_8
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1475
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97f4bc175a04e510800000000000000
+      internalID: 1577397138746570654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_9
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1480
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9354dc81092f0e0800000000000000
+      internalID: -2237567628652234277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_10
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1393
+        width: 210
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9979079b56c1b0e0800000000000000
+      internalID: -2255803841657603683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_11
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1393
+        width: 212
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03550dcc75b14ccf0800000000000000
+      internalID: -233031216804113104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_12
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1393
+        width: 210
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb89c562242977b50800000000000000
+      internalID: 6590897392489109692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_13
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1338
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cfe5e5f015dab20800000000000000
+      internalID: 3147260841051487391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_14
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1180
+        width: 204
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6e7cb7f1b29bd0800000000000000
+      internalID: -2624839955226137907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1202
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ecc5f55a51c3b20800000000000000
+      internalID: 3115388842247245365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_17
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1196
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750877a0c7927d60800000000000000
+      internalID: 7886532751178335608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_18
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1150
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329b960c02e49ed0800000000000000
+      internalID: -2408051359458028997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_19
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0c2ede3b2a58240800000000000000
+      internalID: 4793416272079667372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_20
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1150
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ff3d9e3921577f0800000000000000
+      internalID: -615565347573727482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_15
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1065
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d438c17745d5672d0800000000000000
+      internalID: -3281332661135834291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_21
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1102
+        width: 131
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf9757e61d98c00800000000000000
+      internalID: 903483472612031410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_22
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1072
+        width: 131
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b490d6c69feb0130800000000000000
+      internalID: 3534181763461977269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 668
+        width: 705
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b0e5169f71c79e0800000000000000
+      internalID: -1622395405912372432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_24
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 736
+        width: 308
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca5fd7133e211b20800000000000000
+      internalID: 3103312415213705935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_25
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 892
+        width: 7
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f993921c26ca70800000000000000
+      internalID: 8846806976313292856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet GameView_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 947
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c721ea7895f070800000000000000
+      internalID: 8139579555072952534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cf9b7d9b1da41834db5d19c6b05bf686
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

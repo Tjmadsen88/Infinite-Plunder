@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 4253630a3a4328d4ba2a26aeed7b9a5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shipAndLootMaterial: {instanceID: 0}
+  - sailMaterial: {instanceID: 0}
+  - sailPattern_01: {fileID: 2800000, guid: 9f81b10da38efa040b629d5b3b9779a5, type: 3}
+  - sailPattern_02: {fileID: 2800000, guid: 69dcd9424b779554493c84ff6c4ce2e2, type: 3}
+  - sailPattern_03: {fileID: 2800000, guid: 8e8bf6165ccf03e46887aa47ca2ec135, type: 3}
+  - sailPattern_04: {fileID: 2800000, guid: 9bb99ffcad92ae041a27860ac39e8fe8, type: 3}
+  - sailPattern_05: {fileID: 2800000, guid: e059ce2ff706c4c4ca763fa3f316727a, type: 3}
+  - sailPattern_06: {fileID: 2800000, guid: 39f36e482580b4d4d9cc6a7148e47bf5, type: 3}
+  - sailPattern_07: {fileID: 2800000, guid: 4f63522aa72c42a428f9e703b8f3ae67, type: 3}
+  - sailPattern_08: {fileID: 2800000, guid: a87afcb11454a5b47a3c2e8d447a4d70, type: 3}
+  - sailPattern_09: {fileID: 2800000, guid: 07b49a5d7b78c334d96654fa468becef, type: 3}
+  - sailPattern_10: {fileID: 2800000, guid: ea5d697fe11a6364fad1d209e58b18b0, type: 3}
+  - sailPattern_11: {fileID: 2800000, guid: 4e1cc0b925aca394ab91fe9dc08e1bb7, type: 3}
+  - sailPattern_12: {fileID: 2800000, guid: 1a74fb47e7827354685ac2ebb92d82e1, type: 3}
+  - sailPattern_13: {fileID: 2800000, guid: 8d66da6e7da6b8049aec93210e12e816, type: 3}
+  - sailPattern_14: {fileID: 2800000, guid: ef3c543fcc7e1534ca1bdf7bb1a2f122, type: 3}
+  - sailPattern_15: {fileID: 2800000, guid: 01b500457a31936409795d15da26f177, type: 3}
+  - sailPattern_16: {fileID: 2800000, guid: 3f4b1a89f8ef57d49b3b3c568e68e50a, type: 3}
+  - sailPattern_17: {fileID: 2800000, guid: 6f2ed0dd1dd21444e8a35f7b3aaf91a9, type: 3}
+  - sailPattern_18: {fileID: 2800000, guid: b5ef01219aadb39478db32fa5ee21eca, type: 3}
+  - sailPattern_19: {fileID: 2800000, guid: e6de4f19452261c4e84969b015f898eb, type: 3}
+  - sailPattern_20: {fileID: 2800000, guid: b0cf52d562616b34b9935b5860557e4c, type: 3}
+  - sailPattern_21: {fileID: 2800000, guid: b8674dbfa22aed344a6ad3628e579aaa, type: 3}
+  - sailPattern_none: {fileID: 2800000, guid: a339f90e4d7f42c42aa075ce0fa37eeb, type: 3}
+  - persistentData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

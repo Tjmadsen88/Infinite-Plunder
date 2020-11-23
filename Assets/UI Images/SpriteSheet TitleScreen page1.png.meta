@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: dbcece567726f854882de98b00faf957
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4107714389713361289
+    second: SpriteSheet TitleScreen page1_0
+  - first:
+      213: -3430655313301188329
+    second: SpriteSheet TitleScreen page1_1
+  - first:
+      213: -7393887549433221592
+    second: SpriteSheet TitleScreen page1_2
+  - first:
+      213: 1743534714770918340
+    second: SpriteSheet TitleScreen page1_3
+  - first:
+      213: 6652187551127913237
+    second: SpriteSheet TitleScreen page1_4
+  - first:
+      213: -580672774262511838
+    second: SpriteSheet TitleScreen page1_5
+  - first:
+      213: 8772351190591640800
+    second: SpriteSheet TitleScreen page1_0
+  - first:
+      213: -5373668851521158323
+    second: SpriteSheet TitleScreen page1_1
+  - first:
+      213: -6740077773193051034
+    second: SpriteSheet TitleScreen page1_2
+  - first:
+      213: -2033325587314490783
+    second: SpriteSheet TitleScreen page1_3
+  - first:
+      213: 6781693499102224272
+    second: SpriteSheet TitleScreen page1_4
+  - first:
+      213: -2649975509049280537
+    second: SpriteSheet TitleScreen page1_5
+  - first:
+      213: -6087421289463134859
+    second: SpriteSheet TitleScreen page1_6
+  - first:
+      213: 5082843205991821820
+    second: SpriteSheet TitleScreen page1_7
+  - first:
+      213: -682186511654242413
+    second: SpriteSheet TitleScreen page1_8
+  - first:
+      213: -5386046820593157099
+    second: SpriteSheet TitleScreen page1_6
+  - first:
+      213: -6250847535424763276
+    second: SpriteSheet TitleScreen page1_7
+  - first:
+      213: 6182493904469315777
+    second: SpriteSheet TitleScreen page1_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 500
+        width: 1200
+        height: 1540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e490301ee6adb970800000000000000
+      internalID: 8772351190591640800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_1
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1886
+        width: 651
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43008486a4ec65b0800000000000000
+      internalID: -5373668851521158323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_2
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1724
+        width: 254
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664825ac9fe6672a0800000000000000
+      internalID: -6740077773193051034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1724
+        width: 254
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162486fb62d28c3e0800000000000000
+      internalID: -2033325587314490783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1392
+        width: 638
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f50957e4a6d1e50800000000000000
+      internalID: 6781693499102224272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_5
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1082
+        width: 638
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f1af8055693bd0800000000000000
+      internalID: -2649975509049280537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_6
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 774
+        width: 638
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c3ce204fae045b0800000000000000
+      internalID: -5386046820593157099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_7
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 466
+        width: 638
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a81e1f8478049a0800000000000000
+      internalID: -6250847535424763276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet TitleScreen page1_8
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 65
+        width: 916
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c059e92371acc550800000000000000
+      internalID: 6182493904469315777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
