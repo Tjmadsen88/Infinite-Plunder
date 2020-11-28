@@ -152,8 +152,6 @@ By necessity, this file is visible to every class which ended up needing it. It 
 
 I hope this explanation was helpful. If you want to read the more in-depth explanation of the terrain-generation process you can do that [here](/TerrainGenerationExplanation.md), and if you want a more thorough explanation of the Game Scene you can do that [over here](/GameSceneExplanation.md).
 
-I’ve been spending close to five months building this thing, and I’m quite happy with how it has turned out.
-
 If you’d like, you can find some supplementary information at [my CIKeys website](http://thomasmadsen.cikeys.com/), which includes additional screenshots and a video of the game in action.
 
 Thank you for reading!
