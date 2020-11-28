@@ -154,6 +154,6 @@ I hope this explanation was helpful. If you want to read the more in-depth expla
 
 I’ve been spending close to five months building this thing, and I’m quite happy with how it has turned out.
 
-If you’d like, you can find some supplementary information at my CIKeys website, which includes additional screenshots and a video of the game in action.
+If you’d like, you can find some supplementary information at [my CIKeys website](http://thomasmadsen.cikeys.com/), which includes additional screenshots and a video of the game in action.
 
 Thank you for reading!
