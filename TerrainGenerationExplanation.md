@@ -1,4 +1,4 @@
-# Explanation of how the terrain is generated:
+# A Deeper Explanation of How the Terrain is Generated:
 
 The terrain-generation aspect of this game is easily the largest and most complicated part of this entire thing. This is comprised of 14 different files that are located in the “Assets\Scripts\ 3_Game\Terrain Generation” folder.
 
@@ -7,7 +7,7 @@ Most of the terrain-generation occurs within a class called TerrainBuilder, whic
 There are several steps involved in this process, so let’s explain them all one at a time.
 
 \
-**Part 1, Generating the terrain’s colors:**
+**Part 1, Generating the Terrain’s Colors:**
 
 Generating the terrain’s colors could happen at any time, and I just happened to do it first. This process is called in the ShipSelection class, as soon as the player presses the ‘begin’ button, and before the terrain-generation thread is officially started.
 
@@ -37,7 +37,7 @@ The colors are randomly generated, but they’re also highly curated since… qu
 -	Purples:
     -	The game chooses this about 3% of the time.
     -	This theme will make the landscape purple or pink tones, to make it look like you’re sailing through a field of flowers. It looks a little weird sometimes, but I like having it show up now and again.
--	Darks:
+-	Black:
     -	The game chooses this about 2% of the time.
     -	In this theme, the game will only pick shades of black and dark grey to color the landscape. It also colors the water using dark tones, which gives it a striking appearance.
     -	I do think this theme looks quite nice, but… it doesn’t look very natural. As such, I’ve made this happen only very rarely in the game.
@@ -158,7 +158,7 @@ Each house that ends up in a valid spot is then assigned some randomized individ
 The horizontal positions for the houses are easy to generate this way, but the vertical positions are a little harder. For this, I needed to find the height of the terrain at that location, which requires the use of some bilinear interpolation on the nearby vertices.
 
 \
-**Part 7, Instantiating all of the Data in the Game Scene:**
+**Part 7, Instantiating All of the Data in the Game Scene:**
 
 Now, finally, the TerrainBuilder has finished calculating all of the data we need. All that’s left is to put all this stuff into the world, which… we can’t do on a secondary thread, so we need to pass this back to the main thread first.
 
