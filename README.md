@@ -86,7 +86,7 @@ There are 14 scripts dedicated to the terrain-generation process, and 2 for the 
 
 This thread will generate a bunch of things all at once. It will determine the layout of the maze, the positions of the keys and doors within it, the placements the port towns, as well as calculating all the data needed for the Game Scene to generate the 3D models for the terrain.
 
-This process is very long, very complicated, and… to be honest, it has been extremely difficult for me to wrap my head around. An explanation of this process would be too long to fit right here, but if you’re interested in knowing how all this is generated you can read a detailed explanation over here.
+This process is very long, very complicated, and… to be honest, it has been extremely difficult for me to wrap my head around. An explanation of this process would be too long to fit right here, but if you’re interested in knowing how all this is generated you can read a detailed explanation [over here](/TerrainGenerationExplanation.md).
 
 When this thread finishes, it will push all the data it’s generated into the Persistent Data (which is detailed in Part 7), and the Loading Scene will automatically change to the Game Scene at the same time.
 
@@ -99,7 +99,7 @@ This Scene is where all the fun stuff happens. This is responsible for the major
 
 This part is comprised of 59 different files, all of which can be found in the “Assets\Scripts\3_Game” folder and its subfolders.
 
-These files contain thousands upon thousands of lines of code… so it’d be difficult for me to explain all of what is going on right here. If you’re interested a more in-depth explanation of this Scene, you should take a look over here instead.
+These files contain thousands upon thousands of lines of code… so it’d be difficult for me to explain all of what is going on right here. If you’re interested a more in-depth explanation of this Scene, you should take a look [over here](/GameSceneExplanation.md) instead.
 
 This Scene can transition into two other Scenes. Pressing the “Return to Title” button in the mid-game settings popup will move back to the Title Scene, and winning or losing the game will cause the Scene to transition to the Victory Scene.
 
@@ -150,7 +150,7 @@ By necessity, this file is visible to every class which ended up needing it. It 
 
 ## Conclusion:
 
-I hope this explanation was helpful. If you want to read the more in-depth explanation of the terrain-generation process you can do that here, and if you want a more thorough explanation of the Game Scene you can do that over here.
+I hope this explanation was helpful. If you want to read the more in-depth explanation of the terrain-generation process you can do that [here](/TerrainGenerationExplanation.md), and if you want a more thorough explanation of the Game Scene you can do that [over here](/GameSceneExplanation.md).
 
 I’ve been spending close to five months building this thing, and I’m quite happy with how it has turned out.
 
