@@ -6,9 +6,7 @@ Infinite Plunder is a game designed for mobile devices, and is built using the U
 
 This game was made in Unity, so naturally you will need to have that installed on your computer in order to run this code. I built this using the 2019.3.7f1 version of Unity, although I would assume any newer version will work as well.
 
-You will also need to download a Unity module for either Android Build Support or iOS Build Support, which can be done from within the Unity Hub. I can guarantee this game works as intended on Android devices, but I have not tested iOS devices so those might require additional work to run properly.
-
-In addition, this game does not have any keyboard controls, so a mobile device is required in order to play this game.
+You should also download a Unity module for either Android Build Support or iOS Build Support, which can be done from within the Unity Hub. I can guarantee this game works as intended on Android devices, but I have not tested iOS devices so those might require additional work to run properly.
 
 You may optionally choose to install “Unity Remote 5” onto your device. This will allow you to play the game from within the Unity editor by using your device as a controller.
 
