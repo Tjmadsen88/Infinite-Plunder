@@ -22,6 +22,8 @@ These two classes are responsible for organizing and interpreting all of the use
 
 The TouchReader will analyze every touch on the screen to positions the positions and tilts of the two virtual thumbsticks. This data is then sent to the TouchManager, who then uses this data to determine how the ship should move, where the cannon should aim, and whether or not the cannon should fire.
 
+Another version of the TouchReader exists in the code, which is named TouchReader_KeyboardControls. This one handles the game's keyboard and mouse inputs, and will shortcut the regular TouchReader if these inputs are ever detected. 
+
 \
 **Part 3: ShipRotationManager**
 
