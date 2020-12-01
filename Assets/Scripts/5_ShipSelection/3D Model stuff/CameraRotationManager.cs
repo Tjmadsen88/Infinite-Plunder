@@ -85,6 +85,26 @@ public class CameraRotationManager : MonoBehaviour
             }
         }
 
+        // Check for mouse inputs:
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(canvasRect, Input.mousePosition, null, out tempTouch);
+
+        if (isPortrait)
+        {
+            if (Input.GetMouseButton(0) && checkIfTouchIsOnCamera_portrait(tempTouch))
+            {
+                currentTouch = tempTouch;
+                hasTouch = true;
+                return;
+            } 
+        } else {
+            if (Input.GetMouseButton(0) && checkIfTouchIsOnCamera_landscape(tempTouch))
+            {
+                currentTouch = tempTouch;
+                hasTouch = true;
+                return;
+            } 
+        }
+
         hasTouch = false;
     }
 

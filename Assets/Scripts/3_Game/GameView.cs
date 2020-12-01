@@ -121,6 +121,7 @@ public class GameView : MonoBehaviour
     {
         // Make the game run at 60fps:
         Application.targetFrameRate = 60;
+        Input.simulateMouseWithTouches = false;
 
         mainCam = Camera.main;
         currentMoney = persistentData.getStartingMoney_value();

@@ -202,6 +202,7 @@ public class ShipEditMenuManager : MonoBehaviour
                 switchWindow(windowID_name);
                 window_Name.SetActive(true);
                 windowTitle.text = "Give this ship a fitting name:";
+                cannonballPreviewManager.requestMakeDisappear();
 
                 cancelButtonGrey_image.sprite = sprite_Back;
                 saveButtonGrey_image.sprite = sprite_Save;

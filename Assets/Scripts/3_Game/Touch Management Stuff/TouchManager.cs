@@ -33,6 +33,7 @@ public class TouchManager : MonoBehaviour
     public CannonFiringManager cannonFiringManager;
 
     private TouchReader touchReader;
+    private TouchReader_KeyboardControls touchReader_keyboard;
     private TouchReturnPacket touchReturnPacket;
 
     private bool normalStickPositions;
@@ -55,17 +56,12 @@ public class TouchManager : MonoBehaviour
     private byte doubleTap1_movement = 0;
     private byte doubleTap2_movement = 0;
 
-    private bool autodrive = false;
-    private Vector3 autodriveForward_current = new Vector3(0f, 0f, 0f);
-    private Vector3 autodriveForward_target = new Vector3(0f, 0f, 0f);
+    // private bool autodrive = false;
+    // private Vector3 autodriveForward_current = new Vector3(0f, 0f, 0f);
+    // private Vector3 autodriveForward_target = new Vector3(0f, 0f, 0f);
 
     private bool targetingArrowIsVisible = false;
     private bool reloadWheelIsVisible = false;
-    // private bool canFireCannons = true;
-
-    // private const byte reloadTimer_max = 55;
-    // private const byte reloadTimer_max_auto = 75;
-    // private byte reloadTimer_current = 0;
 
     private float reloadWheelReductionAmount = 1f / 60f;
 
@@ -82,6 +78,7 @@ public class TouchManager : MonoBehaviour
     void Start()
     {
         touchReader = new TouchReader(Camera.main);
+        touchReader_keyboard = new TouchReader_KeyboardControls();
 
         normalStickPositions = persistentData.getNormalStickPositions();
         shootingMode = persistentData.getShootingMode();
@@ -101,7 +98,13 @@ public class TouchManager : MonoBehaviour
 
     public void manageTouches_canMove(bool[,] boolArray, DoorHitboxManager doorHitboxManager)
     {
-        touchReturnPacket = touchReader.getThumbstickData();
+        if (touchReader_keyboard.getHasMouseOrKeyInput())
+        {
+            touchReturnPacket = touchReader_keyboard.getThumbstickData(normalStickPositions, shootingMode);
+        } else {
+            touchReturnPacket = touchReader.getThumbstickData();
+        }
+
         uiManager.setThumbsticks(touchReturnPacket);
 
         stickAngles_raw = touchReturnPacket.getStickAngles();
@@ -109,11 +112,9 @@ public class TouchManager : MonoBehaviour
         hasTouches_raw = touchReturnPacket.getHasTouch();
         
         setStickData();
-        checkForDoubleTap_movement();
+        // checkForDoubleTap_movement();
         
         moveShip_target(stickAngle_movement, stickMagnitude_movement, boolArray, doorHitboxManager);
-        // moveShip_model();
-        // updateLootTail();
         
         checkCannonStick();
         cannonFiringManager.checkCannonReload(playerBoatTransform_delayed.position);
@@ -187,35 +188,35 @@ public class TouchManager : MonoBehaviour
 
     private void moveShip_target(float angle, float magnitude, bool[,] boolArray, DoorHitboxManager doorHitboxManager)
     {
-        if (autodrive)
-        {
-            if (magnitude >= 0.5f)
-            {
-                autodriveForward_target = convertAngMagToVector3_updateExisting(angle + Mathf.PI/4f, Mathf.Min(1f, magnitude*1.25f), autodriveForward_target);
-                // autodriveForward_target = convertAngMagToVector3(angle + Mathf.PI/4f, Mathf.Min(1f, magnitude*1.25f));
-                updateAutodriveForward();
-            }
+        // if (autodrive)
+        // {
+        //     if (magnitude >= 0.5f)
+        //     {
+        //         autodriveForward_target = convertAngMagToVector3_updateExisting(angle + Mathf.PI/4f, Mathf.Min(1f, magnitude*1.25f), autodriveForward_target);
+        //         // autodriveForward_target = convertAngMagToVector3(angle + Mathf.PI/4f, Mathf.Min(1f, magnitude*1.25f));
+        //         updateAutodriveForward();
+        //     }
                 
             
 
-            Constants.moveGameObject_andChangeForward(playerBoatTransform_target, 
-                                                        autodriveForward_current * Constants.shipMoveSpeed,
-                                                        boolArray, 
-                                                        doorHitboxManager);
-        } else {
+        //     Constants.moveGameObject_andChangeForward(playerBoatTransform_target, 
+        //                                                 autodriveForward_current * Constants.shipMoveSpeed,
+        //                                                 boolArray, 
+        //                                                 doorHitboxManager);
+        // } else {
             Constants.moveGameObject_andChangeForward(playerBoatTransform_target, 
                                                     // convertAngMagToVector3(angle + Mathf.PI/4f, Mathf.Min(1f, magnitude*1.25f)) * Constants.shipMoveSpeed,
                                                     worldspaceVector_movement * Constants.shipMoveSpeed,
                                                     boolArray, 
                                                     doorHitboxManager);
-        }
+        // }
     }
 
-    private void updateAutodriveForward()
-    {
-        // autodriveForward_current = Vector3.Slerp(autodriveForward_current, autodriveForward_target, 0.1f).normalized;
-        autodriveForward_current = Vector3.Slerp(autodriveForward_current, autodriveForward_target, 0.1f);
-    }
+    // private void updateAutodriveForward()
+    // {
+    //     // autodriveForward_current = Vector3.Slerp(autodriveForward_current, autodriveForward_target, 0.1f).normalized;
+    //     autodriveForward_current = Vector3.Slerp(autodriveForward_current, autodriveForward_target, 0.1f);
+    // }
 
     private void moveShip_model()
     {
@@ -224,44 +225,44 @@ public class TouchManager : MonoBehaviour
     }
 
 
-    private void checkForDoubleTap_movement()
-    {
-        if (hasTouch_movement && !hasTouchPrevious_movement)
-        {
-            if (doubleTap1_movement == 0)
-            {
-                doubleTap1_movement = doubleTapMax;
-            } else {
-                doubleTap2_movement = doubleTapMax;
-            } 
-        } else if (!hasTouch_movement && hasTouchPrevious_movement && doubleTap2_movement != 0)
-        {
-            doubleTap1_movement = 0;
-            doubleTap2_movement = 0;
-            performDoubleClick_movement();
-        }
+    // private void checkForDoubleTap_movement()
+    // {
+    //     if (hasTouch_movement && !hasTouchPrevious_movement)
+    //     {
+    //         if (doubleTap1_movement == 0)
+    //         {
+    //             doubleTap1_movement = doubleTapMax;
+    //         } else {
+    //             doubleTap2_movement = doubleTapMax;
+    //         } 
+    //     } else if (!hasTouch_movement && hasTouchPrevious_movement && doubleTap2_movement != 0)
+    //     {
+    //         doubleTap1_movement = 0;
+    //         doubleTap2_movement = 0;
+    //         performDoubleClick_movement();
+    //     }
 
-        if (doubleTap1_movement > 0 && --doubleTap1_movement == 0)
-        {
-            doubleTap1_movement = doubleTap2_movement;
-            doubleTap2_movement = 0;
-        }
+    //     if (doubleTap1_movement > 0 && --doubleTap1_movement == 0)
+    //     {
+    //         doubleTap1_movement = doubleTap2_movement;
+    //         doubleTap2_movement = 0;
+    //     }
 
-        if (doubleTap2_movement > 0)
-        {
-            doubleTap2_movement--;
-        }
-    }
+    //     if (doubleTap2_movement > 0)
+    //     {
+    //         doubleTap2_movement--;
+    //     }
+    // }
 
-    private void performDoubleClick_movement()
-    {
-        if (autodrive) autodrive = false;
-        else {
-            autodrive = true;
-            autodriveForward_current = playerBoatTransform_target.forward;
-            autodriveForward_target = autodriveForward_current;
-        }
-    }
+    // private void performDoubleClick_movement()
+    // {
+    //     if (autodrive) autodrive = false;
+    //     else {
+    //         autodrive = true;
+    //         autodriveForward_current = playerBoatTransform_target.forward;
+    //         autodriveForward_target = autodriveForward_current;
+    //     }
+    // }
 
     public void moveShipToSpecificLocation(Vector3 newLocation)
     {
@@ -433,6 +434,7 @@ public class TouchManager : MonoBehaviour
     public void clearBothTouches()
     {
         touchReader.clearBothTouches();
+        touchReader_keyboard.clearBothTouches();
     }
 
     public void setThumbstickPositions(bool normalStickPositions)

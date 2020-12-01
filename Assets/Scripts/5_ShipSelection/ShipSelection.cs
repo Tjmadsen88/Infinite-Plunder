@@ -72,6 +72,7 @@ public class ShipSelection : MonoBehaviour
     {
         // Make the game run at 60fps:
         Application.targetFrameRate = 60;
+        Input.simulateMouseWithTouches = false;
 
 
         shipRotationManager = playerShip_parent.GetComponent<ShipRotationManager_ShipSelection>();
